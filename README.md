@@ -16,10 +16,3 @@ A small collection of HTML/CSS practice projects.
 - HTML5
 - CSS3
 
-## ▶️ Run locally
-1. Clone the repo.
-2. Open `index.html` in your browser.
-
----
-
-✨ Built for learning and experimentation.
